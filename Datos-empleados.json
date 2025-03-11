@@ -1,0 +1,24 @@
+{
+    "Datos de empleados": {
+        "Datos sobre Moralens": [
+            {
+                "Nombre": "Moralens",
+                "Edad": 27
+            },
+            {
+                "Cargo": "Software engeneer",
+                "Lenguajes": "Python"
+            }
+        ],
+        "Datos sobre Karem": [
+            {
+                "Nombre": "Karem",
+                "Edad": 32
+            },
+            {
+                "Cargo": "Frontend developer",
+                "Lenguajes": "Javascript"
+            }
+        ]
+    }
+}

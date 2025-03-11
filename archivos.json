@@ -1,0 +1,32 @@
+{
+    "Lenguajes de programacion": {
+        "Lenguajes tipados:": [
+            {
+                "Nombre": "Java",
+                "Age": 1995
+            },
+            {
+                "Nombre": "C#",
+                "Age": 1970
+            },
+            {
+                "Nombre": "GoLang",
+                "Age": 2015
+            }
+        ],
+        "Lenguajes interpretados:": [
+            {
+                "Nombre": "Javascript",
+                "Age": 1996
+            },
+            {
+                "Nombre": "PHP",
+                "Age": 1994
+            },
+            {
+                "Nombre": "Python",
+                "Age": 1991
+            }
+        ]
+    }
+}

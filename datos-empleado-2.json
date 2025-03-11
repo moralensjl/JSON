@@ -1,0 +1,34 @@
+{
+    "datos de empleados y sus funciones": {
+        "datos de moralens jean louis": [
+            {
+                "nombre": "moralens jean louis",
+                "edad": 27
+            },
+            {
+                "posicion": "frontend developer",
+                "lenguajes": "python, javascript"
+            }
+        ],
+        "datos de karem luna": [
+            {
+                "nombre": "karem luna",
+                "edad": 32
+            },
+            {
+                "posicion": "backend developer",
+                "lenguajes": "java, c#"
+            }
+        ],
+        "datos de sara hernandez": [
+            {
+                "nombre": "sara hernandez",
+                "edad": 23
+            },
+            {
+                "posicion": "backend, frontend developer",
+                "lenguajes": "javascript, node.js"
+            }
+        ]
+    }
+}

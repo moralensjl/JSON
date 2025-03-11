@@ -1,0 +1,17 @@
+[
+    "Lenguajes de programacion",
+    {
+        "Tipados": [
+            "Go",
+            "Typescript",
+            "Java",
+            "C#"
+        ],
+        "Interpretados": [
+            "Javascript",
+            "Python",
+            "PHP",
+            "Ruby"
+        ]
+    }
+]
