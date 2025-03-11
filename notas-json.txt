@@ -1,0 +1,13 @@
+# Conceptos de Json
+Dumps: la funcion json.dumps() Convierte un objeto de python (Diccionario, tubla, lista, etc)
+ y lo convierte en una cadena json, (String).
+
+Dump: "dump" se utiliza para escribir esos datos en un archivo.
+
+Loads: En el contexto de JSON y programación, "loads" se refiere al proceso de deserialización.
+ Aquí te explico:
+
+Serializacion: La serializacion convierte un objeto de python en un cadena de Json.
+ 
+Deserialización: Mientras la serializacion convierte un objeto de python en un cadena de Json, 
+la deserialización convierte una cadena en un objeto.
